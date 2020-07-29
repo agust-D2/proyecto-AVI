@@ -1,0 +1,22 @@
+.header__row {
+    margin-top: 3.6rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+
+.header__logo {
+    opacity: 0;
+    animation: fadeInUp 1s .5s;
+    animation-fill-mode: both;
+}
+
+@media only screen and (max-width: 614px) {
+    .header__row {
+        margin-top: 2.2rem;
+    }
+
+    .header__logo {
+        height: 2.5rem;
+    }
+}

@@ -1,0 +1,33 @@
+:root {
+  font-family: 'Tajawal', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: var(--color-title);
+}
+
+h1 {
+  margin: 0;
+  font-size: 5.6rem;
+}
+
+h6 {
+  font-size: 1.7rem;
+}
+
+p {
+  line-height: 3.2rem;
+  font-family: 'Lato', sans-serif;
+}
+
+span {
+  font-family: inherit;
+}
+
+a {
+  font-size: 1.6rem;
+}
+
+a:hover {
+  text-decoration: none;
+}
