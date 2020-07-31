@@ -8232,7 +8232,8 @@ button.bg-dark:focus {
   bottom: 0;
   left: 0;
   z-index: 1030;
-} 
+}
+
 @supports((position:-webkit-sticky) or (position: sticky)) {
   .sticky-top {
     position: -webkit-sticky;
@@ -13544,110 +13545,110 @@ a.text-dark:hover, a.text-dark:focus {
 }
 
 .ico-arrow-dark
-{ background-image: url(../images/images/sprite.png); background-position: 68.26568265682657% 65.55555555555556%; background-size: 1694.1176470588236% 1900%; width: 17px; height: 10px; display: inline-block; vertical-align: middle; font-size: 0px; }
+{ background-image: url(../images/images/sprite1.png); background-position: 68.26568265682657% 65.55555555555556%; background-size: 1694.1176470588236% 1900%; width: 17px; height: 10px; display: inline-block; vertical-align: middle; font-size: 0px; }
 
 .ico-arrow-large
-{ background-image: url(../images/images/sprite.png); background-position: 68.90756302521008% 57.77777777777777%; background-size: 576% 1900%; width: 50px; height: 10px; display: inline-block; vertical-align: middle; font-size: 0px; }
+{ background-image: url(../images/images/sprite1.png); background-position: 68.90756302521008% 57.77777777777777%; background-size: 576% 1900%; width: 50px; height: 10px; display: inline-block; vertical-align: middle; font-size: 0px; }
 
 .ico-arrow-left
-{ background-image: url(../images/images/sprite.png); background-position: 60.51660516605166% 65.55555555555556%; background-size: 1694.1176470588236% 1900%; width: 17px; height: 10px; display: inline-block; vertical-align: middle; font-size: 0px; }
+{ background-image: url(../images/images/sprite1.png); background-position: 60.51660516605166% 65.55555555555556%; background-size: 1694.1176470588236% 1900%; width: 17px; height: 10px; display: inline-block; vertical-align: middle; font-size: 0px; }
 
 .ico-arrow-orange
-{ background-image: url(../images/images/sprite.png); background-position: 95.9409594095941% 57.77777777777777%; background-size: 1694.1176470588236% 1900%; width: 17px; height: 10px; display: inline-block; vertical-align: middle; font-size: 0px; }
+{ background-image: url(../images/images/sprite1.png); background-position: 95.9409594095941% 57.77777777777777%; background-size: 1694.1176470588236% 1900%; width: 17px; height: 10px; display: inline-block; vertical-align: middle; font-size: 0px; }
 
 .ico-arrow-right
-{ background-image: url(../images/images/sprite.png); background-position: 88.19188191881919% 57.77777777777777%; background-size: 1694.1176470588236% 1900%; width: 17px; height: 10px; display: inline-block; vertical-align: middle; font-size: 0px; }
+{ background-image: url(../images/images/sprite1.png); background-position: 88.19188191881919% 57.77777777777777%; background-size: 1694.1176470588236% 1900%; width: 17px; height: 10px; display: inline-block; vertical-align: middle; font-size: 0px; }
 
 .ico-arrow-white
-{ background-image: url(../images/images/sprite.png); background-position: 80.44280442804428% 57.77777777777777%; background-size: 1694.1176470588236% 1900%; width: 17px; height: 10px; display: inline-block; vertical-align: middle; font-size: 0px; }
+{ background-image: url(../images/images/sprite1.png); background-position: 80.44280442804428% 57.77777777777777%; background-size: 1694.1176470588236% 1900%; width: 17px; height: 10px; display: inline-block; vertical-align: middle; font-size: 0px; }
 
 .ico-checkmark-orange
-{ background-image: url(../images/images/sprite.png); background-position: 63.138686131386855% 79.66101694915254%; background-size: 2057.1428571428573% 1461.5384615384614%; width: 14px; height: 13px; display: inline-block; vertical-align: middle; font-size: 0px; }
+{ background-image: url(../images/images/sprite1.png); background-position: 63.138686131386855% 79.66101694915254%; background-size: 2057.1428571428573% 1461.5384615384614%; width: 14px; height: 13px; display: inline-block; vertical-align: middle; font-size: 0px; }
 
 .ico-checkmark
-{ background-image: url(../images/images/sprite.png); background-position: 17.91044776119403% 100%; background-size: 1440% 950%; width: 20px; height: 20px; display: inline-block; vertical-align: middle; font-size: 0px; }
+{ background-image: url(../images/images/sprite1.png); background-position: 17.91044776119403% 100%; background-size: 1440% 950%; width: 20px; height: 20px; display: inline-block; vertical-align: middle; font-size: 0px; }
 
 .ico-close
-{ background-image: url(../images/images/sprite.png); background-position: 51.515151515151516% 62.65060240963856%; background-size: 1200% 791.6666666666667%; width: 24px; height: 24px; display: inline-block; vertical-align: middle; font-size: 0px; }
+{ background-image: url(../images/images/sprite1.png); background-position: 51.515151515151516% 62.65060240963856%; background-size: 1200% 791.6666666666667%; width: 24px; height: 24px; display: inline-block; vertical-align: middle; font-size: 0px; }
 
 .ico-envelope-lightblue
-{ background-image: url(../images/images/sprite.png); background-position: 46.81647940074906% 81.03448275862068%; background-size: 1371.4285714285713% 1187.5%; width: 21px; height: 16px; display: inline-block; vertical-align: middle; font-size: 0px; }
+{ background-image: url(../images/images/sprite1.png); background-position: 46.81647940074906% 81.03448275862068%; background-size: 1371.4285714285713% 1187.5%; width: 21px; height: 16px; display: inline-block; vertical-align: middle; font-size: 0px; }
 
 .ico-envelope
-{ background-image: url(../images/images/sprite.png); background-position: 36.74242424242424% 81.97674418604652%; background-size: 1200% 1055.5555555555554%; width: 24px; height: 18px; display: inline-block; vertical-align: middle; font-size: 0px; }
+{ background-image: url(../images/images/sprite1.png); background-position: 36.74242424242424% 81.97674418604652%; background-size: 1200% 1055.5555555555554%; width: 24px; height: 18px; display: inline-block; vertical-align: middle; font-size: 0px; }
 
 .ico-linkedin
-{ background-image: url(../images/images/sprite.png); background-position: 40.909090909090914% 62.65060240963856%; background-size: 1200% 791.6666666666667%; width: 24px; height: 24px; display: inline-block; vertical-align: middle; font-size: 0px; }
+{ background-image: url(../images/images/sprite1.png); background-position: 40.909090909090914% 62.65060240963856%; background-size: 1200% 791.6666666666667%; width: 24px; height: 24px; display: inline-block; vertical-align: middle; font-size: 0px; }
 
 .ico-share-orange
-{ background-image: url(../images/images/sprite.png); background-position: 0% 100%; background-size: 1440% 950%; width: 20px; height: 20px; display: inline-block; vertical-align: middle; font-size: 0px; }
+{ background-image: url(../images/images/sprite1.png); background-position: 0% 100%; background-size: 1440% 950%; width: 20px; height: 20px; display: inline-block; vertical-align: middle; font-size: 0px; }
 
 .ico-share
-{ background-image: url(../images/images/sprite.png); background-position: 8.955223880597014% 100%; background-size: 1440% 950%; width: 20px; height: 20px; display: inline-block; vertical-align: middle; font-size: 0px; }
+{ background-image: url(../images/images/sprite1.png); background-position: 8.955223880597014% 100%; background-size: 1440% 950%; width: 20px; height: 20px; display: inline-block; vertical-align: middle; font-size: 0px; }
 
 .ico-twitter-lightblue
-{ background-image: url(../images/images/sprite.png); background-position: 55.762081784386616% 81.03448275862068%; background-size: 1515.7894736842104% 1187.5%; width: 19px; height: 16px; display: inline-block; vertical-align: middle; font-size: 0px; }
+{ background-image: url(../images/images/sprite1.png); background-position: 55.762081784386616% 81.03448275862068%; background-size: 1515.7894736842104% 1187.5%; width: 19px; height: 16px; display: inline-block; vertical-align: middle; font-size: 0px; }
 
 .ico-twitter
-{ background-image: url(../images/images/sprite.png); background-position: 26.136363636363637% 82.45614035087719%; background-size: 1200% 1000%; width: 24px; height: 19px; display: inline-block; vertical-align: middle; font-size: 0px; }
+{ background-image: url(../images/images/sprite1.png); background-position: 26.136363636363637% 82.45614035087719%; background-size: 1200% 1000%; width: 24px; height: 19px; display: inline-block; vertical-align: middle; font-size: 0px; }
 
 .logo-dark
-{ background-image: url(../images/images/sprite.png); background-position: 0% 36.61971830985916%; background-size: 154.01069518716577% 395.83333333333337%; width: 187px; height: 48px; display: inline-block; vertical-align: middle; font-size: 0px; }
+{ background-image: url(../images/images/sprite1.png); background-position: 0% 36.61971830985916%; background-size: 154.01069518716577% 395.83333333333337%; width: 187px; height: 48px; display: inline-block; vertical-align: middle; font-size: 0px; }
 
 .logo-small-dark
-{ background-image: url(../images/images/sprite.png); background-position: 100% 0%; background-size: 296.9072164948454% 204.30107526881721%; width: 97px; height: 93px; display: inline-block; vertical-align: middle; font-size: 0px; }
+{ background-image: url(../images/images/sprite1.png); background-position: 100% 0%; background-size: 296.9072164948454% 204.30107526881721%; width: 97px; height: 93px; display: inline-block; vertical-align: middle; font-size: 0px; }
 
 .logo-small-secondary
-{ background-image: url(../images/images/sprite.png); background-position: 27.27272727272727% 66.2420382165605%; background-size: 822.8571428571428% 575.7575757575758%; width: 35px; height: 33px; display: inline-block; vertical-align: middle; font-size: 0px; }
+{ background-image: url(../images/images/sprite1.png); background-position: 27.27272727272727% 66.2420382165605%; background-size: 822.8571428571428% 575.7575757575758%; width: 35px; height: 33px; display: inline-block; vertical-align: middle; font-size: 0px; }
 
 .logo-small
-{ background-image: url(../images/images/sprite.png); background-position: 0% 81.25%; background-size: 443.0769230769231% 306.4516129032258%; width: 65px; height: 62px; display: inline-block; vertical-align: middle; font-size: 0px; }
+{ background-image: url(../images/images/sprite1.png); background-position: 0% 81.25%; background-size: 443.0769230769231% 306.4516129032258%; width: 65px; height: 62px; display: inline-block; vertical-align: middle; font-size: 0px; }
 
 .logo
-{ background-image: url(../images/images/sprite.png); background-position: 0% 0%; background-size: 154.01069518716577% 395.83333333333337%; width: 187px; height: 48px; display: inline-block; vertical-align: middle; font-size: 0px; }
+{ background-image: url(../images/images/sprite1.png); background-position: 0% 0%; background-size: 154.01069518716577% 395.83333333333337%; width: 187px; height: 48px; display: inline-block; vertical-align: middle; font-size: 0px; }
 
 @media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi)
 {
 	.ico-arrow-dark
-{ background-image: url(../images/images/sprite.png); background-position: 70.11070110701108% 57.77777777777777%; background-size: 1694.1176470588236% 1900%; width: 17px; height: 10px; display: inline-block; vertical-align: middle; font-size: 0px; }
+{ background-image: url(../images/images/sprite1.png); background-position: 70.11070110701108% 57.77777777777777%; background-size: 1694.1176470588236% 1900%; width: 17px; height: 10px; display: inline-block; vertical-align: middle; font-size: 0px; }
 	.ico-arrow-large
-{ background-image: url(../images/images/sprite.png); background-position: 57.14285714285714% 57.77777777777777%; background-size: 576% 1900%; width: 50px; height: 10px; display: inline-block; vertical-align: middle; font-size: 0px; }
+{ background-image: url(../images/images/sprite1.png); background-position: 57.14285714285714% 57.77777777777777%; background-size: 576% 1900%; width: 50px; height: 10px; display: inline-block; vertical-align: middle; font-size: 0px; }
 	.ico-arrow-left
-{ background-image: url(../images/images/sprite.png); background-position: 50.184501845018445% 65.55555555555556%; background-size: 1694.1176470588236% 1900%; width: 17px; height: 10px; display: inline-block; vertical-align: middle; font-size: 0px; }
+{ background-image: url(../images/images/sprite1.png); background-position: 50.184501845018445% 65.55555555555556%; background-size: 1694.1176470588236% 1900%; width: 17px; height: 10px; display: inline-block; vertical-align: middle; font-size: 0px; }
 	.ico-arrow-orange
-{ background-image: url(../images/images/sprite.png); background-position: 93.35793357933579% 57.77777777777777%; background-size: 1694.1176470588236% 1900%; width: 17px; height: 10px; display: inline-block; vertical-align: middle; font-size: 0px; }
+{ background-image: url(../images/images/sprite1.png); background-position: 93.35793357933579% 57.77777777777777%; background-size: 1694.1176470588236% 1900%; width: 17px; height: 10px; display: inline-block; vertical-align: middle; font-size: 0px; }
 	.ico-arrow-right
-{ background-image: url(../images/images/sprite.png); background-position: 85.60885608856088% 57.77777777777777%; background-size: 1694.1176470588236% 1900%; width: 17px; height: 10px; display: inline-block; vertical-align: middle; font-size: 0px; }
+{ background-image: url(../images/images/sprite1.png); background-position: 85.60885608856088% 57.77777777777777%; background-size: 1694.1176470588236% 1900%; width: 17px; height: 10px; display: inline-block; vertical-align: middle; font-size: 0px; }
 	.ico-arrow-white
-{ background-image: url(../images/images/sprite.png); background-position: 77.85977859778598% 57.77777777777777%; background-size: 1694.1176470588236% 1900%; width: 17px; height: 10px; display: inline-block; vertical-align: middle; font-size: 0px; }
+{ background-image: url(../images/images/sprite1.png); background-position: 77.85977859778598% 57.77777777777777%; background-size: 1694.1176470588236% 1900%; width: 17px; height: 10px; display: inline-block; vertical-align: middle; font-size: 0px; }
 	.ico-checkmark-orange
-{ background-image: url(../images/images/sprite.png); background-position: 63.138686131386855% 79.49438202247191%; background-size: 2057.1428571428573% 1583.3333333333335%; width: 14px; height: 12px; display: inline-block; vertical-align: middle; font-size: 0px; }
+{ background-image: url(../images/images/sprite1.png); background-position: 63.138686131386855% 79.49438202247191%; background-size: 2057.1428571428573% 1583.3333333333335%; width: 14px; height: 12px; display: inline-block; vertical-align: middle; font-size: 0px; }
 	.ico-checkmark
-{ background-image: url(../images/images/sprite.png); background-position: 17.91044776119403% 100%; background-size: 1440% 950%; width: 20px; height: 20px; display: inline-block; vertical-align: middle; font-size: 0px; }
+{ background-image: url(../images/images/sprite1.png); background-position: 17.91044776119403% 100%; background-size: 1440% 950%; width: 20px; height: 20px; display: inline-block; vertical-align: middle; font-size: 0px; }
 	.ico-close
-{ background-image: url(../images/images/sprite.png); background-position: 40.909090909090914% 62.65060240963856%; background-size: 1200% 791.6666666666667%; width: 24px; height: 24px; display: inline-block; vertical-align: middle; font-size: 0px; }
+{ background-image: url(../images/images/sprite1.png); background-position: 40.909090909090914% 62.65060240963856%; background-size: 1200% 791.6666666666667%; width: 24px; height: 24px; display: inline-block; vertical-align: middle; font-size: 0px; }
 	.ico-envelope-lightblue
-{ background-image: url(../images/images/sprite.png); background-position: 46.81647940074906% 81.32183908045977%; background-size: 1371.4285714285713% 1187.5%; width: 21px; height: 16px; display: inline-block; vertical-align: middle; font-size: 0px; }
+{ background-image: url(../images/images/sprite1.png); background-position: 46.81647940074906% 81.32183908045977%; background-size: 1371.4285714285713% 1187.5%; width: 21px; height: 16px; display: inline-block; vertical-align: middle; font-size: 0px; }
 	.ico-envelope
-{ background-image: url(../images/images/sprite.png); background-position: 36.74242424242424% 82.26744186046511%; background-size: 1200% 1055.5555555555554%; width: 24px; height: 18px; display: inline-block; vertical-align: middle; font-size: 0px; }
+{ background-image: url(../images/images/sprite1.png); background-position: 36.74242424242424% 82.26744186046511%; background-size: 1200% 1055.5555555555554%; width: 24px; height: 18px; display: inline-block; vertical-align: middle; font-size: 0px; }
 	.ico-share-orange
-{ background-image: url(../images/images/sprite.png); background-position: 0% 100%; background-size: 1440% 950%; width: 20px; height: 20px; display: inline-block; vertical-align: middle; font-size: 0px; }
+{ background-image: url(../images/images/sprite1.png); background-position: 0% 100%; background-size: 1440% 950%; width: 20px; height: 20px; display: inline-block; vertical-align: middle; font-size: 0px; }
 	.ico-share
-{ background-image: url(../images/images/sprite.png); background-position: 8.955223880597014% 100%; background-size: 1440% 950%; width: 20px; height: 20px; display: inline-block; vertical-align: middle; font-size: 0px; }
+{ background-image: url(../images/images/sprite1.png); background-position: 8.955223880597014% 100%; background-size: 1440% 950%; width: 20px; height: 20px; display: inline-block; vertical-align: middle; font-size: 0px; }
 	.ico-twitter-lightblue
-{ background-image: url(../images/images/sprite.png); background-position: 55.762081784386616% 81.32183908045977%; background-size: 1515.7894736842104% 1187.5%; width: 19px; height: 16px; display: inline-block; vertical-align: middle; font-size: 0px; }
+{ background-image: url(../images/images/sprite1.png); background-position: 55.762081784386616% 81.32183908045977%; background-size: 1515.7894736842104% 1187.5%; width: 19px; height: 16px; display: inline-block; vertical-align: middle; font-size: 0px; }
 	.ico-twitter
-{ background-image: url(../images/images/sprite.png); background-position: 26.136363636363637% 82.7485380116959%; background-size: 1200% 1000%; width: 24px; height: 19px; display: inline-block; vertical-align: middle; font-size: 0px; }
+{ background-image: url(../images/images/sprite1.png); background-position: 26.136363636363637% 82.7485380116959%; background-size: 1200% 1000%; width: 24px; height: 19px; display: inline-block; vertical-align: middle; font-size: 0px; }
 	.logo-dark
-{ background-image: url(../images/images/sprite.png); background-position: 0% 36.61971830985916%; background-size: 153.6% 395.83333333333337%; width: 187.5px; height: 48px; display: inline-block; vertical-align: middle; font-size: 0px; }
+{ background-image: url(../images/images/sprite1.png); background-position: 0% 36.61971830985916%; background-size: 153.6% 395.83333333333337%; width: 187.5px; height: 48px; display: inline-block; vertical-align: middle; font-size: 0px; }
 	.logo-small-dark
-{ background-image: url(../images/images/sprite.png); background-position: 100% 0%; background-size: 298.44559585492226% 206.52173913043475%; width: 96.5px; height: 92px; display: inline-block; vertical-align: middle; font-size: 0px; }
+{ background-image: url(../images/images/sprite1.png); background-position: 100% 0%; background-size: 298.44559585492226% 206.52173913043475%; width: 96.5px; height: 92px; display: inline-block; vertical-align: middle; font-size: 0px; }
 	.logo-small-secondary
-{ background-image: url(../images/images/sprite.png); background-position: 27.27272727272727% 66.45367412140575%; background-size: 822.8571428571428% 567.1641791044776%; width: 35px; height: 33.5px; display: inline-block; vertical-align: middle; font-size: 0px; }
+{ background-image: url(../images/images/sprite1.png); background-position: 27.27272727272727% 66.45367412140575%; background-size: 822.8571428571428% 567.1641791044776%; width: 35px; height: 33.5px; display: inline-block; vertical-align: middle; font-size: 0px; }
 	.logo-small
-{ background-image: url(../images/images/sprite.png); background-position: 0% 81.25%; background-size: 443.0769230769231% 306.4516129032258%; width: 65px; height: 62px; display: inline-block; vertical-align: middle; font-size: 0px; }
+{ background-image: url(../images/images/sprite1.png); background-position: 0% 81.25%; background-size: 443.0769230769231% 306.4516129032258%; width: 65px; height: 62px; display: inline-block; vertical-align: middle; font-size: 0px; }
 	.logo
-{ background-image: url(../images/images/sprite.png); background-position: 0% 0%; background-size: 153.6% 395.83333333333337%; width: 187.5px; height: 48px; display: inline-block; vertical-align: middle; font-size: 0px; }
+{ background-image: url(../images/images/sprite1.png); background-position: 0% 0%; background-size: 153.6% 395.83333333333337%; width: 187.5px; height: 48px; display: inline-block; vertical-align: middle; font-size: 0px; }
 }
 
 /* ------------------------------------------------------------ *\
@@ -14640,7 +14641,7 @@ nav ol { list-style: none outside none; }
 
 .article .link-more i { position: relative; top: -2px; margin-left: 8px; transition: transform .3s; }
 
-.article .link-more:hover i { -ms-transform: translateX(5px); transform: translateX(5px); background-image: url(../images/images/sprite.png); background-position: 95.9409594095941% 57.77777777777777%; background-size: 1694.1176470588236% 1900%; }
+.article .link-more:hover i { -ms-transform: translateX(5px); transform: translateX(5px); background-image: url(../images/images/sprite1.png); background-position: 95.9409594095941% 57.77777777777777%; background-size: 1694.1176470588236% 1900%; }
 
 .article .link-more:before { content: ''; position: absolute; left: -5px; top: 0; bottom: 0; width: 0; background-color: #f2f7fa; z-index: -1; transition: width .3s; }
 
@@ -15205,7 +15206,7 @@ input:-webkit-autofill { -webkit-text-fill-color: inherit; -webkit-box-shadow: 0
 
 .portfolio-items .portfolio-item:hover { background-color: #f2f7fa; }
 
-.portfolio-items .portfolio-item:hover .ico-share { background-image: url(../images/images/sprite.png); background-position: 0% 100%; background-size: 1440% 950%;; }
+.portfolio-items .portfolio-item:hover .ico-share { background-image: url(../images/images/sprite1.png); background-position: 0% 100%; background-size: 1440% 950%;; }
 
 .portfolio-items .portfolio-item:hover h4 { color: #ef3b24; }
 
@@ -15569,7 +15570,7 @@ input:-webkit-autofill { -webkit-text-fill-color: inherit; -webkit-box-shadow: 0
 	.section-news .link-over { position: absolute; top: 0; left: 0; bottom: 0; right: 0; }
 	.section-news .card:hover { box-shadow: 0 0 15px 4px rgba(141, 158, 169, 0.2); }
 	.section-news .card:hover .link-more:before { width: 50%; }
-	.section-news .card:hover .link-more i { background-image: url(../images/images/sprite.png); background-position: 95.9409594095941% 57.77777777777777%; background-size: 1694.1176470588236% 1900%; }
+	.section-news .card:hover .link-more i { background-image: url(../images/images/sprite1.png); background-position: 95.9409594095941% 57.77777777777777%; background-size: 1694.1176470588236% 1900%; }
 	.section-news .article .card-body { padding: 45px 45px; }
 }
 
@@ -16174,7 +16175,7 @@ input:-webkit-autofill { -webkit-text-fill-color: inherit; -webkit-box-shadow: 0
 
 .widgets .widget ul a:hover { color: #ef3b24; }
 
-.widgets .widget ul a:hover i { background-image: url(../images/images/sprite.png); background-position: 95.9409594095941% 57.77777777777777%; background-size: 1694.1176470588236% 1900%; }
+.widgets .widget ul a:hover i { background-image: url(../images/images/sprite1.png); background-position: 95.9409594095941% 57.77777777777777%; background-size: 1694.1176470588236% 1900%; }
 
 .widgets .widget ul a:hover:before { width: 100%; }
 
