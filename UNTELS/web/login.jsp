@@ -17,6 +17,7 @@
             String s_correo;
             String s_usuario;
             String s_clave;
+            String  s_error;
             %> 
     </head>
     <body> 
@@ -43,21 +44,32 @@
                                 <div class="heroimage__right">
                                     <img class="background-logo__shape" src="images/original.jpg" alt="Background"> 
             
-                                    <form id="signup-form" class="signup-form" action="login.jsp" method="POST"> 
+                                    <form id="signup-form" class="signup-form" action="valida.jsp" method="POST"> 
                                     <h5 id="signup-form__title" class="signup-form__title">
                                                    
                                         <b>Bienvenido</b>
                                         nuevamente!
                                     </h5> 
                                     <div class="signup-form__input"> 
-                                        <input type="text" name="user" placeholder="tu usuario o codigo" required> 
+                                        <input type="text" name="f_usuario" placeholder="tu usuario o codigo" required> 
                                     </div>
                                     <div class="signup-form__input"> 
-                                        <input type="password" id="password" name="clave" placeholder="tu clave" required> 
+                                        <input type="password" id="password" name="f_clave" placeholder="tu clave" required> 
                                     </div> 
                          
                                     <input id="signup-form__button" type="submit" class="signup-form__button" value="Iniciar Sesion">
                                     <input type="hidden" name="f_accion" value="R" size="15" />
+                                    <%
+                                        s_error = request.getParameter("f_error");
+                                        if (s_error != null) {
+                                    %>
+                                    <h5 id="signup-form__title" class="signup-form__title">
+                                                   
+                                        <b>Usuario y/o clave incorrecto</b>
+                                        
+                                    </h5> 
+                                    <% } %>
+                                    
                                     <% } catch (SQLException e) {
                                                 System.out.println("Error: " + e.getMessage());
                                             }
@@ -85,10 +97,10 @@
                 
                                
             </main> 
-                                        
-                                        <footer class="footer"> 
-                                            <div class="container"> <div class="footer__row"> <img src="images/images/nombre.png" alt="logo" class="footer__logo"> <div class="footer__content"> <p class="copyright">© 2020 Proyecto AVI</p> </div> </div> </div> 
-                                        </footer> 
+
+            <footer class="footer"> 
+     <div class="container"> <div class="footer__row"> <img src="images/images/nombre.png" alt="logo" class="footer__logo"> <div class="footer__content"> <p class="copyright">© 2020 Proyecto AVI</p> </div> </div> </div> 
+              </footer> 
         
         <script src="js/public/main.d1eb4f8e.js"></script>
         <script src="js/public/tiny-slider.js"></script>
